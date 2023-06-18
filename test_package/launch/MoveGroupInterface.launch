@@ -1,0 +1,6 @@
+<launch>
+
+  <node name="MoveGroupInterfacePython" pkg="test_package" type="MoveGroupInterfacePython.py" respawn="false" output="screen">
+  </node>
+
+</launch>
